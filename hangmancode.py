@@ -1,4 +1,5 @@
 # Write your code here
+#Hangman code...
 import random
 lis = ["python", "java", "swift", "javascript"]
 won = 0
